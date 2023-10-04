@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JbAranel17
+- 👋 Hi, I’m @JbAranel
 - 👀 I’m interested in creating Website
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on you
